@@ -18,13 +18,13 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* 2022-present: Associate Professor with tenure
+  Central South University of Forestry & Technology
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2015-2022: Assistant Professor
+  Central South University of Forestry & Technology
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
