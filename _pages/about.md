@@ -11,6 +11,7 @@ Zhige Wu is an Associate Professor of Economics at College of Economics in Centr
 
 Featured Publications
 ======
+
 The Impact of Local Ethanol Production on the Corn Basis in Ontario 
 ======
 This paper investigates the factors affecting the corn basis in Ontario with particular emphasis on the effect of ethanol production given the projected detrimental effect its expansion could have on the red meat sector. We estimate a location-specific and panel vector error correction models (VECM) for seven elevators in Ontario from 2006 to 2013. We find a long-run equilibrium relationship exists between the basis and factors affecting local supply and demand including
