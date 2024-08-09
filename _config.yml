@@ -24,9 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhige Wu"
   pronouns         : # example: "he/his"  
-  bio              : "Associate Professor at Central South University of 
-  Forestry and Technology"
-  location         : "Earth"
+  bio              : "Associate Professor at Central South University of Forestry and Technology"
   employer         : "Central South University of 
   Forestry and Technology"
   uri              : # URL
@@ -41,7 +39,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://wu-zhige.github.io/zhige_wu.github.io/"
+  github           : "wu-zhige.github.io/zhige_wu.github.io/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
