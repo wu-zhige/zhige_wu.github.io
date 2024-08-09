@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhige Wu"
+title                    : "Zhige Wu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,6 +25,7 @@ author:
   name             : "Zhige Wu"
   pronouns         : # example: "he/his"  
   bio              : "Associate Professor at Central South University of Forestry and Technology"
+  location         : China Changsha
   employer         : "CSUFT"
   uri              : # URL
   email            : "wu_zhige@csuft.edu.cn" 
