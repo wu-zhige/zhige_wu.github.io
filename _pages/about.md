@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Zhige Wu is an Associate Professor of Economics at College of Economics in Central South University of Forestry & Technology. He also served as a postdoctoral fellow in Jinan University during 2020-2023. His research interests are in financial economics, energy and environmental economics, and agricultural economics, particularly with a primary focus on pricing and hedging of commodity assets, risk and benefit assessment of algorithmic trading in volatile markets, market design and regulation for low-carbon energy transition, agri-environmental technologies and policies, and structure and performance of agri-food value chains. He has published 20 research articles in Energy Economics, Canadian Journal of Agricultural Economics, Journal of Futures Markets, and Applied Economics, among other journals. He received his undergraduate degree in International Economics and Trade from Beijing Institute of Petrochemical Technology, master degrees in Economics from both Hunan University and University of Calgary, and obtained his Ph.D. in Economics from University of Guelph.
 
 A data-driven personal website
 ======
