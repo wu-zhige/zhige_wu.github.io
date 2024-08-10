@@ -6,8 +6,8 @@ excerpt: 'This paper investigates the factors affecting the corn basis in Ontari
 date: 2016-12-19
 venue: 'Canadian Journal of Agricultural Economics'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: '4.	Z. Wu, A. Weersink, A. Maynard, G. Hailu, and R. Vyn. (2017). &quot;The Impact of Local Ethanol Production on the Corn Basis in Ontario.&quot; <i>Canadian Journal of Agricultural Economics</i>. 65(3).'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/cjag.12130'
+citation: 'Z. Wu, A. Weersink, A. Maynard, G. Hailu, and R. Vyn. (2017). &quot;The Impact of Local Ethanol Production on the Corn Basis in Ontario.&quot; <i>Canadian Journal of Agricultural Economics</i>. 65(3): 409-430.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
