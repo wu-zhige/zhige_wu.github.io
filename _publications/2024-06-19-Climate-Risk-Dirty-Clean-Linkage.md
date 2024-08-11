@@ -2,7 +2,7 @@
 title: "Do climate risks affect dirty–clean energy stock price dynamic correlations?"
 collection: publications
 permalink: /publication/2021-08-23-oil-corn-livestock-linkage
-excerpt: 'Furthermore, substantial attention is required to account for monetary policies' asymmetric effects on clean energy investment.'
+excerpt: 'Furthermore, asubstantial attention is required to account for monetary policies' asymmetric effects on clean energy investment.'
 date: 2024-06-19
 venue: 'Energy Economics'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0140988324004213'
