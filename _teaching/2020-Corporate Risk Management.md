@@ -1,5 +1,5 @@
 ---
-title: "Econometrics"
+title: "Coporate Risk Management"
 collection: teaching
 type: "undergraduate course"
 permalink: /teaching/2020-2023
@@ -8,37 +8,37 @@ date: 2020.9.1
 location: "Changsha, China"
 ---
 
-The goal of the undergraduate econometrics course is to equip students with the tools necessary to critically analyze economic data and to conduct their own empirical research. Topics covered are: basic concepts of statistical inference; estimation and inference for the simple linear regression model; heteroscedasticity; multicollinearity; autocorrelation; endogeneity and IV; identification and estimation of panel data models. 
+The goal of the Coporate Risk Management course is to examine the identification, measurement, control and financing of pure risks in business organisations.
 
 Part 1
 ======
-The Nature and Purpose of Econometrics
+The nature of risk management
 
 Part 2
 ======
-The linear Regression Model
+Risk identification
 
 Part 3
 ======
-Hypothesis Testing and Inference
+The firm’s loss exposure
 
 Part 4
 ======
-OLS Assumptions
+Risk measurement and probability distributions
 
 Part 5
 ======
-Multicolinearity and Heteroskedasticity
+Risk control tools
 
 Part 6
 ======
-Endogeneity and IV
+Risk financing
 
 Part 7
 ======
-Panel Data Estimators
+Insurance and the alternatives
 
 Part 8
 ======
-Time Series
+Legal aspects of insurance and insurance contracts
 
