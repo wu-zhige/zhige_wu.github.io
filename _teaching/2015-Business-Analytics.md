@@ -7,7 +7,9 @@ venue: "Central South University of Forestry & Technology, Bangor College"
 date: 2015-09-01 to 2023-12-16
 location: "Changsha, China"
 ---
-
+This is a foundation course in business analytical skills which includes statistical methods, data
+collection and interpretation, probability distributions, hypothesis formulation and testing,
+correlation and regression analysis.
 
 Chapter 1
 ======
