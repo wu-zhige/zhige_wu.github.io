@@ -61,4 +61,18 @@ Teaching
   
 Service 
 ======
-* Currently signed in to 43 different slack teams
+* Director, Changsha-Zhuzhou-Xiangtan Urban Agglomeration Research Association
+(2024 - 2028)
+* Forestry Technology Expert, Changsha City Forestry Bureau (2024 - 2028)
+* Member, Undergraduate Studies Committee, Department of Economics (2023 -
+present)
+* Area Coordinator: Econometrics, Department of Economics (2023 - present)
+* Member, Entrance Exam Interview Committee, Department of Economics (2019 -
+2021)
+* Member, Advisory Committee, Department of Economics (2018 - present)
+* Member, Faculty Search Committee, Bangor College (2017 - 2019)
+* Director, Finance and Accounting Program, Bangor College (2015 - 2023)
+* Member, Teaching & Learning Committee, Bangor College (2015 - 2023)
+* Member, Faculty - Student Liasion Committee, Bangor College (2015 - 2023)
+* Member, Research Committee, Department of Economics (2015 - present)
+
