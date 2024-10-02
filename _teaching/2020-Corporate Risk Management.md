@@ -3,7 +3,7 @@ title: "Coporate Risk Management"
 collection: teaching
 type: "undergraduate course"
 permalink: /teaching/2020-2023
-venue: "Central South University of Forestry & Technology, Bangor College"
+venue: "Central South University of Forestry & Technology, Bangor College" 
 date: 2020.9.1
 location: "Changsha, China"
 ---
