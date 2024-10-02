@@ -7,8 +7,7 @@ venue: "Central South University of Forestry & Technology, Bangor College"
 date: 2015-09-01 to 2023-12-16
 location: "Changsha, China"
 ---
-This module provides an introduction to Economics. The curriculum
-equips students to understand how the economy has evolved and how it works by bringing
+This module provides an introduction to Economics. The curriculum equips students to understand how the economy has evolved and how it works by bringing
 advances in economics research over the past three decades.
 
 
