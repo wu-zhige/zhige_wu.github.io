@@ -2,7 +2,7 @@
 title: "Econometrics"
 collection: teaching
 type: "undergraduate course"
-permalink: /teaching/2020-2023
+permalink: /teaching/Econometrics
 venue: "Central South University of Forestry & Technology, Bangor College"
 date: 2020.9.1
 location: "Changsha, China"
