@@ -2,7 +2,7 @@
 title: "Introductory Economics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-2023
+permalink: /teaching/Introductory_Economics
 venue: "Central South University of Forestry & Technology, Bangor College"
 date: 2015-09-01 to 2023-12-16
 location: "Changsha, China"
