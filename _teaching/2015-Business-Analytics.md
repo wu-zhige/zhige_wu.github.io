@@ -2,7 +2,7 @@
 title: "Business Analytics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-2023
+permalink: /teaching/Business_Analytics
 venue: "Central South University of Forestry & Technology, Bangor College"
 date: 2015-09-01 to 2023-12-16
 location: "Changsha, China"
