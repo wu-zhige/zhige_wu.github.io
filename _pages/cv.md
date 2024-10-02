@@ -23,6 +23,9 @@ Work experience
   * teach undergraduate and postgraduate courses;
   * publish research papers in high-ranked journals in economics and finance.
 
+* 2020-2023: Postdoctoral Fellow
+  Jinan University
+  * publish research papers in high-ranked journals in economics and finance.
 
 * 2015-2022: Assistant Professor (tenure track)
   Central South University of Forestry & Technology
