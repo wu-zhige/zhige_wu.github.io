@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/2020-2023
 venue: "Central South University of Forestry and Technology, Bangor College"
-date: 2020-2023
+date: 2020.9.1
 location: "Changsha, China"
 ---
 
