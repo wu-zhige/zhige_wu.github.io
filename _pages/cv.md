@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+{{% staticref "files/Zhige_Wu_CV_Full.pdf" %}}Download my CV{{% /staticref %}}
 
 Education
 ======
