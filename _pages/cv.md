@@ -18,21 +18,21 @@ Education
 
 Work experience
 ======
-* 2022-present: Associate Professor with tenure
+* 2022-present: Associate Professor with tenure;
   Central South University of Forestry & Technology
   * teach undergraduate and postgraduate courses;
   * publish research papers in high-ranked journals in economics and finance.
 
-* 2020-2023: Postdoctoral Fellow
+* 2020-2023: Postdoctoral Fellow;
   Jinan University
   * publish research papers in high-ranked journals in economics and finance.
 
-* 2015-2022: Assistant Professor (tenure track)
+* 2015-2022: Assistant Professor (tenure track);
   Central South University of Forestry & Technology
   * teach undergraduate and postgraduate courses;
   * publish research papers in high-ranked journals in economics and finance.
 
-* 2011-2015: Research Assistant
+* 2011-2015: Research Assistant;
   University of Guelph
   * Duties included: data collection; original draft writing and editing 
   * Supervisor: Professor Alfons Weersink
