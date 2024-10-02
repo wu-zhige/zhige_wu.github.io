@@ -20,18 +20,19 @@ Work experience
 ======
 * 2022-present: Associate Professor with tenure
   Central South University of Forestry & Technology
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * teach undergraduate and postgraduate courses;
+  * publish research papers in high-ranked journals in economics and finance.
 
-* 2015-2022: Assistant Professor
+
+* 2015-2022: Assistant Professor (tenure track)
   Central South University of Forestry & Technology
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * teach undergraduate and postgraduate courses;
+  * publish research papers in high-ranked journals in economics and finance.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2011-2015: Research Assistant
+  University of Guelph
+  * Duties included: data collection; original draft writing and editing 
+  * Supervisor: Professor Alfons Weersink
   
 Programming Languages
 ======
