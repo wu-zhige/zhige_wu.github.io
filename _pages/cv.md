@@ -55,9 +55,21 @@ Teaching
 
   Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+Central South University of Forestry & Technology
+* Teaching Achievement Awards 2021 - 2022
+* Teaching Excellence in Online Education 2020 - 2021
+* Most Favorite Teacher Teaching Excellence 2015 - 2016
+University of Guelph
+* University of Guelph Doctoral Fellowship 2011 - 2015
+* University of Guelph Entrance Scholarship 2012 - 2013
+* University of Guelph Teaching Assistantship 2011 - 2015
+* China Scholarship Council (CSC) Doctoral Fellowship 2011 - 2015
+University of Calgary
+* University of Calgary Teaching Assistantship 2009 - 2011
+* Beijing Institute of Petrochemical Technology Outstanding Student Scholarship 2002 - 2006
+* Ministry of Education Student Assistantship 2005 - 2026
+* University Undergraduate Contest Scholarship 2005 - 2026
+
   
 Service 
 ======
