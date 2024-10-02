@@ -10,11 +10,35 @@ location: "Changsha, China"
 
 The goal of the undergraduate econometrics course is to equip students with the tools necessary to critically analyze economic data and to conduct their own empirical research. Topics covered are: basic concepts of statistical inference; estimation and inference for the simple linear regression model; heteroscedasticity; multicollinearity; autocorrelation; and specification, identification and estimation of panel data models. 
 
-Heading 1
+Part 1
 ======
+The Nature and Purpose of Econometrics
 
-Heading 2
+Part 2
 ======
+The linear Regression Model
 
-Heading 3
+Part 3
 ======
+Hypothesis Testing and Inference
+
+Part 4
+======
+OLS Assumptions
+
+Part 5
+======
+Multicolinearity and Heteroskedasticity
+
+Part 6
+======
+Endogeneity and IV
+
+Part 7
+======
+Panel Data Estimators
+
+Part 8
+======
+Time Series
+
