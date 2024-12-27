@@ -21,8 +21,9 @@ Education
 Work experience
 ======
 * 2022-present: Associate Professor (with tenure) at Central South University of Forestry & Technology
-  * teach undergraduate and postgraduate courses;
-  * publish research papers in high-ranked journals in economics and finance.
+  * Develop and deliver 12 high quality courses in English in Economics and Finance, including Business Analytics, Econometrics, Corporate Risk Management,  and so forth;
+  * Conduct high-quality research and publish research articles in Energy Economics, Journal of Futures Markets, Applied Economics, and Canadian Journal of Agricultural Economics, among other journals;
+  * Provide academic guidance and mentorship to both undergraduate and graduate students, fostering their intellectual and professional growth.
 
 * 2020-2022: Postdoctoral Fellow at Jinan University
   * publish research papers in high-ranked journals in economics and finance.
