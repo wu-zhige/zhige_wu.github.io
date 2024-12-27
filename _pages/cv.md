@@ -42,6 +42,7 @@ Programming Languages
 * R
 * Matlab
 * Stata
+* LaTex
 
 Publications
 ======
