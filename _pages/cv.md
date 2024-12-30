@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 {{% staticref "files/Zhige_Wu_CV_Full.pdf" %}}Please find attached my CV:{{% /staticref %}}
-[CV](https://github.com/wu-zhige/zhige_wu.github.io/blob/master/files/Zhige_Wu_CV_Full.pdf?raw=true)
+[CV](https://github.com/wu-zhige/zhige_wu.github.io/blob/master/files/Zhige_Wu_CV.pdf?raw=true)
 
 Education
 ======
