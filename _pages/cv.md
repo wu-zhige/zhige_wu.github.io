@@ -26,11 +26,11 @@ Work experience
   * Provide academic guidance and mentorship to both undergraduate and graduate students, fostering their intellectual and professional growth.
 
 * 2020-2022: Postdoctoral Fellow at Jinan University
-  * publish research papers in high-ranked journals in economics and finance.
+  * Publish research papers in high-ranked journals in economics and finance.
 
 * 2015-2022: Assistant Professor (tenure track) at Central South University of Forestry & Technology
-  * teach undergraduate and postgraduate courses;
-  * publish research papers in high-ranked journals in economics and finance.
+  * Teach undergraduate and postgraduate courses;
+  * Publish research papers in high-ranked journals in economics and finance.
 
 * 2011-2015: Research Assistant at the University of Guelph
   * Duties included: data collection; original draft writing and editing 
