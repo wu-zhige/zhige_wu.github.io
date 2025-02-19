@@ -86,7 +86,7 @@ Service
 * Director, Changsha-Zhuzhou-Xiangtan Urban Agglomeration Research Association
 (2024-2028)
 * Forestry Technology Expert, Changsha City Forestry Bureau (2024-2028)
-* Member, Undergraduate Studies Committee, Department of Economics (2023-present)
+* Member, Undergraduate Studies Committee, College of Economics (2023-present)
 * Area Coordinator: Econometrics, College of Economics (2023-present)
 * Member, Graduate Entrance Exam Interview Committee, College of Economics (2019-2021)
 * Member, Advisory Committee, College of Economics (2018-present)
