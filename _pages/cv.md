@@ -74,8 +74,8 @@ University of Calgary
 
 Beijing Institute of Petrochemical Technology
 * Outstanding Student Scholarship 2002-2006
-* Ministry of Education Student Assistantship 2005-2026
-* University Undergraduate Contest Scholarship 2005-2026
+* Ministry of Education Student Assistantship 2005-2006
+* University Undergraduate Contest Scholarship 2005-2006
 
   
 Service 
